@@ -1,0 +1,6 @@
+{
+  "name": "信号接力 v0.5.3 全面审查与真机工作台",
+  "description": "针对微信小游戏《信号接力》(Signal Relay v0.5.3) 的深度代码审计、Bug 修复对比、60 关真机模拟与 v0.5.4/v0.6 新功能实验室。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
